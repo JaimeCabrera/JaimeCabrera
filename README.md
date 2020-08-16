@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning React js
-const anmol = {
+```javascript
+const Jaime Cabrera = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Php", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Vue", "React js"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express"],
+            php: ["laravel"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
@@ -37,3 +38,4 @@ const anmol = {
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
