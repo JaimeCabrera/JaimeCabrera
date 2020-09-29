@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 const Jaime Cabrera = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Php", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "React js"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["materialize", "tailwindcss", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express","sails"],
             php: ["laravel"]
         },
         databases: ["mongo", "MySql", "sqlite"]
