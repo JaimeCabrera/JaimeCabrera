@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```javascript
 const Jaime Cabrera = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Php", "Java", "php"],
+    code: ["Javascript", "Typescript", "Php", "Java"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
