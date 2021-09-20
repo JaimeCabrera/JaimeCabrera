@@ -20,17 +20,17 @@ const Jaime Cabrera = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Php", "Java"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["React Native"],
         frontEnd: {
             js: ["Vue", "React js"],
             css: ["materialize", "tailwindcss", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express","sails"],
+            js: ["node", "express"],
             php: ["laravel"]
         },
         databases: ["mongo", "MySql", "sqlite"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Single page applications"],
 };
 ```
