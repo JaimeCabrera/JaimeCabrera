@@ -27,7 +27,7 @@ const Jaime Cabrera = {
         },
         backEnd: {
             js: ["node", "express"],
-            php: ["laravel"]
+            php: ["laravel"],
             python: ["django"]
         },
         databases: ["mongo", "MySql", "sqlite"]
