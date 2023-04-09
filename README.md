@@ -28,9 +28,10 @@ const Jaime Cabrera = {
         backEnd: {
             js: ["node", "express"],
             php: ["laravel"]
+            python: ["django"]
         },
         databases: ["mongo", "MySql", "sqlite"]
     },
-    architecture: ["Serverless Architecture", "Single page applications"],
+    architecture: ["Serverless", "Single page applications"],
 };
 ```
