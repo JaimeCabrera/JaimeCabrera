@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```javascript
 const Jaime Cabrera = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Php", "Java"],
+    code: ["Javascript", "Typescript", "Php", "Java","python"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
@@ -30,7 +30,7 @@ const Jaime Cabrera = {
             php: ["laravel"],
             python: ["django"]
         },
-        databases: ["mongo", "MySql", "sqlite"]
+        databases: ["mongo","postgres", "MySql", "sqlite"]
     },
     architecture: ["Serverless", "Single page applications"],
 };
