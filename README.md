@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ```javascript
 const Jaime Cabrera = {
     pronouns: "He" | "Him",
+    ERP: ["Odoo"],
     code: ["Javascript", "Typescript", "Php", "Java","python"],
     technologies: {
         mobileApp: ["React Native"],
